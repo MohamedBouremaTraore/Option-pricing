@@ -1,0 +1,26 @@
+================== put ==================
+# [] for F =>       (MAE=0.080; RMSE=0.192; ; NRMSE=0.226) ['VIX'] for F => (MAE=0.100; RMSE=0.241; ; NRMSE=0.283)    ['PCR'] for F => (MAE=0.100; RMSE=0.241; ; NRMSE=0.283) ['GS_F', 'SC_F', 'VIX', 'PCR'] for F => (MAE=0.102; RMSE=0.243; ; NRMSE=0.285)
+# [] for GM =>      (MAE=0.386; RMSE=0.815; ; NRMSE=0.363) ['GS_GM'] for GM => (MAE=0.414; RMSE=0.839; ; NRMSE=0.373) ['GS_GM', 'SC_GM', 'VIX', 'PCR'] for GM => (MAE=0.433; RMSE=0.912; ; NRMSE=0.406)
+# [] for LCID =>    (MAE=0.332; RMSE=0.508; ; NRMSE=0.199) ['SC_LCID'] for LCID => (MAE=0.373; RMSE=0.565; ; NRMSE=0.221) ['GS_LCID', 'SC_LCID', 'VIX', 'PCR'] for LCID => (MAE=0.375; RMSE=0.574; ; NRMSE=0.224)
+# [] for RIVN =>    (MAE=0.192; RMSE=0.433; ; NRMSE=0.231) ['SC_RIVN'] for RIVN => (MAE=0.222; RMSE=0.501; ; NRMSE=0.268) ['GS_RIVN', 'SC_RIVN', 'VIX', 'PCR'] for RIVN => (MAE=0.225; RMSE=0.509; ; NRMSE=0.272)
+# [] for TSLA => (MAE=1.557; RMSE=3.546; ; NRMSE=0.081) ['GS_TSLA'] for TSLA => (MAE=1.720; RMSE=4.204; ; NRMSE=0.096) ['GS_TSLA', 'SC_TSLA', 'VIX', 'PCR'] for TSLA => (MAE=1.726; RMSE=4.215; ; NRMSE=0.096)
+
+# [] for AAPL => (MAE=0.939; RMSE=2.013; ; NRMSE=0.181) ['GS_AAPL'] for AAPL => (MAE=1.061; RMSE=2.252; ; NRMSE=0.203) ['GS_AAPL', 'SC_AAPL', 'VIX', 'PCR'] for AAPL => (MAE=1.140; RMSE=2.375; ; NRMSE=0.214)
+# [] for AMZN => (MAE=0.867; RMSE=1.551; ; NRMSE=0.081) ['SC_AMZN'] for AMZN => (MAE=0.951; RMSE=1.722; ; NRMSE=0.090) ['GS_AMZN', 'SC_AMZN', 'VIX', 'PCR'] for AMZN => (MAE=0.947; RMSE=1.716; ; NRMSE=0.090)
+# [] for GOOGL => (MAE=0.966; RMSE=1.904; ; NRMSE=0.125) ['GS_GOOGL'] for GOOGL => (MAE=0.977; RMSE=1.900; ; NRMSE=0.125) ['GS_GOOGL', 'SC_GOOGL', 'VIX', 'PCR'] for GOOGL => (MAE=0.976; RMSE=1.897; ; NRMSE=0.125)
+# [] for META => (MAE=1.917; RMSE=4.800; ; NRMSE=0.117) ['PCR'] for META => (MAE=2.045; RMSE=5.525; ; NRMSE=0.135) ['GS_META', 'SC_META', 'VIX', 'PCR'] for META => (MAE=2.111; RMSE=5.606; ; NRMSE=0.137)
+# [] for MSFT => (MAE=1.113; RMSE=2.572; ; NRMSE=0.127) ['VIX'] for MSFT => (MAE=1.186; RMSE=2.989; ; NRMSE=0.147) ['GS_MSFT', 'SC_MSFT', 'VIX', 'PCR'] for MSFT => (MAE=1.177; RMSE=3.012; ; NRMSE=0.148)
+================call=======================
+
+# [] for F => (MAE=0.103; RMSE=0.182; ; NRMSE=0.098) ['GS_F'] for F => (MAE=0.125; RMSE=0.207; ; NRMSE=0.112) ['GS_F', 'SC_F', 'VIX', 'PCR'] for F => (MAE=0.128; RMSE=0.212; ; NRMSE=0.115)
+# [] for GM => (MAE=0.675; RMSE=1.245; ; NRMSE=0.171) ['GS_GM'] for GM => (MAE=0.697; RMSE=1.252; ; NRMSE=0.172) ['GS_GM', 'SC_GM', 'VIX', 'PCR'] for GM => (MAE=0.722; RMSE=1.287; ; NRMSE=0.177)
+# [] for LCID => (MAE=0.291; RMSE=0.507; ; NRMSE=0.212) ['SC_LCID'] for LCID => (MAE=0.311; RMSE=0.528; ; NRMSE=0.221) ['GS_LCID', 'SC_LCID', 'VIX', 'PCR'] for LCID => (MAE=0.321; RMSE=0.544; ; NRMSE=0.227)
+# [] for AAPL => (MAE=1.315; RMSE=2.364; ; NRMSE=0.060) ['GS_AAPL'] for AAPL => (MAE=1.447; RMSE=2.580; ; NRMSE=0.066) ['GS_AAPL', 'SC_AAPL', 'VIX', 'PCR'] for AAPL => (MAE=1.498; RMSE=2.654; ; NRMSE=0.068)
+# [] for TSLA => (MAE=2.143; RMSE=3.724; ; NRMSE=0.047) ['VIX'] for TSLA => (MAE=2.376; RMSE=4.031; ; NRMSE=0.051) ['GS_TSLA', 'SC_TSLA', 'VIX', 'PCR'] for TSLA => (MAE=2.379; RMSE=3.980; ; NRMSE=0.050)
+
+
+# [] for AAPL => (MAE=1.315; RMSE=2.364; ; NRMSE=0.060) ['GS_AAPL'] for AAPL => (MAE=1.447; RMSE=2.580; ; NRMSE=0.066) ['GS_AAPL', 'SC_AAPL', 'VIX', 'PCR'] for AAPL => (MAE=1.498; RMSE=2.654; ; NRMSE=0.068)
+# [] for AMZN => (MAE=0.887; RMSE=1.421; ; NRMSE=0.040) ['SC_AMZN'] for AMZN => (MAE=0.984; RMSE=1.576; ; NRMSE=0.045) ['GS_AMZN', 'SC_AMZN', 'VIX', 'PCR'] for AMZN => (MAE=1.013; RMSE=1.626; ; NRMSE=0.046)
+# [] for GOOGL => (MAE=1.604; RMSE=2.582; ; NRMSE=0.054) ['GS_GOOGL'] for GOOGL => (MAE=1.654; RMSE=2.578; ; NRMSE=0.054) ['GS_GOOGL', 'SC_GOOGL', 'VIX', 'PCR'] for GOOGL => (MAE=1.675; RMSE=2.603; ; NRMSE=0.054)
+# [] for META => (MAE=3.010; RMSE=5.216; ; NRMSE=0.072) ['VIX'] for META => (MAE=3.497; RMSE=5.947; ; NRMSE=0.082) ['GS_META', 'SC_META', 'VIX', 'PCR'] for META => (MAE=3.533; RMSE=6.049; ; NRMSE=0.084)
+# [] for MSFT => (MAE=1.581; RMSE=2.750; ; NRMSE=0.057) ['GS_MSFT'] for MSFT => (MAE=1.739; RMSE=3.023; ; NRMSE=0.062) ['GS_MSFT', 'SC_MSFT', 'VIX', 'PCR'] for MSFT => (MAE=1.783; RMSE=3.121; ; NRMSE=0.064)
